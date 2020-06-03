@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>김환일</td>
+          <td>김환일</td>
+          <td>김환일</td>
+          <td>김환일</td>
+          <td>김환일</td>
         </tr>
         <tr>
-          <td>이름name</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>김환일name</td>
+          <td>김환일</td>
+          <td>김환일</td>
+          <td>김환일</td>
+          <td>김환일</td>
         </tr>
       </tbody>
 </table>

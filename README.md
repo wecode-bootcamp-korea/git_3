@@ -2,7 +2,7 @@
       <tbody>
         <tr>
           <td>김환일</td>
-          <td>김환일</td>
+          <td>jungho</td>
           <td>김환일</td>
           <td>김환일</td>
           <td>김환일</td>

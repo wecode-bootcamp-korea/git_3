@@ -3,12 +3,11 @@
         <tr>
           <td>이름</td>
           <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+	  <td>현정호</td>
+	  <td>이름</td>
         </tr>
         <tr>
-          <td>이름name</td>
+          <td>이름</td>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>

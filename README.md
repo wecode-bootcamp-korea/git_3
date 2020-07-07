@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>김환일</td>
-          <td>jungho</td>
-          <td>김환일</td>
-          <td>김환일</td>
-          <td>김환일</td>
+          <td>손혜인</td>
+          <td>손혜인</td>
+          <td>손혜인</td>
+          <td>손혜인</td>
+          <td>손혜인</td>
         </tr>
         <tr>
-          <td>김환일name</td>
-          <td>김환일</td>
-          <td>김환일</td>
-          <td>김환일</td>
-          <td>김환일</td>
+          <td>손혜인</td>
+          <td>손혜인</td>
+          <td>손혜인</td>
+          <td>손혜인</td>
+          <td>손혜인</td>
         </tr>
       </tbody>
 </table>

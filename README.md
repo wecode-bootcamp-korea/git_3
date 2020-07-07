@@ -5,14 +5,14 @@
           <td>손혜인</td>
           <td>손혜인</td>
           <td>손혜인</td>
-          <td>손혜인</td>
+          <td>국한</td>
         </tr>
         <tr>
           <td>손혜인</td>
-          <td>손혜인</td>
-          <td>손혜인</td>
-          <td>손혜인</td>
-          <td>손혜인</td>
+          <td>환일킴</td>
+          <td>환일김</td>
+          <td>한국</td>
+          <td>국한</td>
         </tr>
       </tbody>
 </table>

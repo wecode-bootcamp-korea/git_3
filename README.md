@@ -1,8 +1,8 @@
 <table>
       <tbody>
         <tr>
-          <td>김환일</td>
-          <td>jungho</td>
+          <td>쉽지않네</td>
+          <td>쉽지않네</td>
           <td>김환일</td>
           <td>김환일</td>
           <td>김환일</td>

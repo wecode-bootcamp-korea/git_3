@@ -1,14 +1,14 @@
 <table>
       <tbody>
         <tr>
-          <td>손혜인</td>
-          <td>손혜인</td>
-          <td>손혜인</td>
-          <td>손혜인</td>
-          <td>손혜인</td>
+          <td>전성현</td>
+          <td>전성현</td>
+          <td>김환일</td>
+          <td>김환일</td>
+          <td>이승민</td>
         </tr>
         <tr>
-          <td>손혜인</td>
+          <td>이승민</td>
           <td>손혜인</td>
           <td>손혜인</td>
           <td>손혜인</td>
